@@ -1,0 +1,21 @@
+{
+  "name": "netflixandchill",
+  "version": "0.0.1",
+  "description": "Instant Netflix & Chill using an Amazon Dash button",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "1.2.0",
+    "node-dash-button": "0.1.1",
+    "node-hue-api": "1.1.2",
+    "open": "0.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidho/netflixandchill.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sid Ho",
+  "license": "MIT"
+}
